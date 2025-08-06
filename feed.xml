@@ -3,33 +3,33 @@
   <channel>
     <title>Daily Pump Feed</title>
     <link>https://daily-pump.vercel.app/</link>
-    <description>Daily pump stock updates with price and type</description>
+    <description>Daily pump stock updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Aug 2025 15:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 14:10:00 +0000</lastBuildDate>
     <atom:link href="https://daily-pump.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>$ABC – Low float runner</title>
-      <link>https://www.tradingview.com/symbols/ABC/</link>
-      <description><![CDATA[Price: 3.45 | Type: Reddit Mention]]></description>
-      <pubDate>Wed, 06 Aug 2025 15:20:12 +0000</pubDate>
-      <guid isPermaLink="false">abc-1754493912.713217</guid>
+      <title>$SBET – Ethereum buzz runner</title>
+      <link>https://www.tradingview.com/symbols/SBET/</link>
+      <description><![CDATA[Price: XX.XX | Type: Reddit Mention]]></description>
+      <pubDate>Wed, 06 Aug 2025 14:08:00 +0000</pubDate>
+      <guid>sbett-1</guid>
     </item>
 
     <item>
-      <title>$XYZ – VWAP breakout</title>
-      <link>https://www.tradingview.com/symbols/XYZ/</link>
-      <description><![CDATA[Price: 7.89 | Type: Technical Breakout]]></description>
-      <pubDate>Wed, 06 Aug 2025 15:15:12 +0000</pubDate>
-      <guid isPermaLink="false">xyz-1754493912.713217</guid>
+      <title>$ABAT – Battery meme breakout</title>
+      <link>https://www.tradingview.com/symbols/ABAT/</link>
+      <description><![CDATA[Price: YY.YY | Type: Technical Breakout]]></description>
+      <pubDate>Wed, 06 Aug 2025 14:05:00 +0000</pubDate>
+      <guid>abat-2</guid>
     </item>
 
     <item>
-      <title>$LMN – Gap up with volume</title>
-      <link>https://www.tradingview.com/symbols/LMN/</link>
-      <description><![CDATA[Price: 12.34 | Type: Reddit Mention]]></description>
-      <pubDate>Wed, 06 Aug 2025 15:10:12 +0000</pubDate>
-      <guid isPermaLink="false">lmn-1754493912.713217</guid>
+      <title>$OPEN – Meme stock gap-up</title>
+      <link>https://www.tradingview.com/symbols/OPEN/</link>
+      <description><![CDATA[Price: ZZ.ZZ | Type: Reddit Mention]]></description>
+      <pubDate>Wed, 06 Aug 2025 14:02:00 +0000</pubDate>
+      <guid>open-3</guid>
     </item>
 
   </channel>
