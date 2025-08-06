@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Pump Feed</title>
+    <link>https://daily-pump.vercel.app/</link>
+    <description>Daily pump stock updates with price and type</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Aug 2025 15:25:12 +0000</lastBuildDate>
+    <atom:link href="https://daily-pump.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>$ABC – Low float runner</title>
+      <link>https://www.tradingview.com/symbols/ABC/</link>
+      <description><![CDATA[Price: 3.45 | Type: Reddit Mention]]></description>
+      <pubDate>Wed, 06 Aug 2025 15:20:12 +0000</pubDate>
+      <guid isPermaLink="false">abc-1754493912.713217</guid>
+    </item>
+
+    <item>
+      <title>$XYZ – VWAP breakout</title>
+      <link>https://www.tradingview.com/symbols/XYZ/</link>
+      <description><![CDATA[Price: 7.89 | Type: Technical Breakout]]></description>
+      <pubDate>Wed, 06 Aug 2025 15:15:12 +0000</pubDate>
+      <guid isPermaLink="false">xyz-1754493912.713217</guid>
+    </item>
+
+    <item>
+      <title>$LMN – Gap up with volume</title>
+      <link>https://www.tradingview.com/symbols/LMN/</link>
+      <description><![CDATA[Price: 12.34 | Type: Reddit Mention]]></description>
+      <pubDate>Wed, 06 Aug 2025 15:10:12 +0000</pubDate>
+      <guid isPermaLink="false">lmn-1754493912.713217</guid>
+    </item>
+
+  </channel>
+</rss>
