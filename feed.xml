@@ -1,37 +1,23 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
 <channel>
-<title>Daily Pump Feed</title>
-<link>https://daily-pump.vercel.app/</link>
-<description>Daily pump stock updates</description>
-<language>en-us</language>
-<lastBuildDate>Wed, 06 Aug 2025 14:10:00 +0000</lastBuildDate>
-<atom:link href="https://daily-pump.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>$SBET – Ethereum buzz runner</title>
-<link>https://www.tradingview.com/symbols/SBET/</link>
-<description>
-<![CDATA[ Price: XX.XX | Type: Reddit Mention ]]>
-</description>
-<pubDate>Wed, 06 Aug 2025 14:08:00 +0000</pubDate>
-<guid>sbett-1</guid>
-</item>
-<item>
-<title>$ABAT – Battery meme breakout</title>
-<link>https://www.tradingview.com/symbols/ABAT/</link>
-<description>
-<![CDATA[ Price: YY.YY | Type: Technical Breakout ]]>
-</description>
-<pubDate>Wed, 06 Aug 2025 14:05:00 +0000</pubDate>
-<guid>abat-2</guid>
-</item>
-<item>
-<title>$OPEN – Meme stock gap-up</title>
-<link>https://www.tradingview.com/symbols/OPEN/</link>
-<description>
-<![CDATA[ Price: ZZ.ZZ | Type: Reddit Mention ]]>
-</description>
-<pubDate>Wed, 06 Aug 2025 14:02:00 +0000</pubDate>
-<guid>open-3</guid>
-</item>
+  <title>🚨 Early Pump Signals (Unfiltered Reddit Alerts)</title>
+  <link>https://reddit.com/r/pennystocks</link>
+  <description>Early mentions of stocks matching pump criteria (Robinhood, volume surge, Reddit buzz)</description>
+
+  <item>
+    <title>🟢 Early Reddit Buzz Detected</title>
+    <link>https://www.reddit.com/r/pennystocks</link>
+    <pubDate>Thu, 08 Aug 2025 10:41:00 GMT</pubDate>
+    <description>One or more tickers triggered early-stage pump indicators. Check Reddit or your screener now.</description>
+  </item>
+
+  <item>
+    <title>⚠️ Potential PUMP Alert – Unverified Ticker Activity</title>
+    <link>https://www.reddit.com/r/pennystocks</link>
+    <pubDate>Thu, 08 Aug 2025 09:27:00 GMT</pubDate>
+    <description>Detected spike in posts or volume matching early pump profile. Review your shortlist manually.</description>
+  </item>
+
 </channel>
 </rss>
