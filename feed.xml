@@ -1,36 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Daily Pump Feed</title>
-    <link>https://daily-pump.vercel.app/</link>
-    <description>Daily pump stock updates</description>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Aug 2025 14:10:00 +0000</lastBuildDate>
-    <atom:link href="https://daily-pump.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
-
-    <item>
-      <title>$SBET – Ethereum buzz runner</title>
-      <link>https://www.tradingview.com/symbols/SBET/</link>
-      <description><![CDATA[Price: XX.XX | Type: Reddit Mention]]></description>
-      <pubDate>Wed, 06 Aug 2025 14:08:00 +0000</pubDate>
-      <guid>sbett-1</guid>
-    </item>
-
-    <item>
-      <title>$ABAT – Battery meme breakout</title>
-      <link>https://www.tradingview.com/symbols/ABAT/</link>
-      <description><![CDATA[Price: YY.YY | Type: Technical Breakout]]></description>
-      <pubDate>Wed, 06 Aug 2025 14:05:00 +0000</pubDate>
-      <guid>abat-2</guid>
-    </item>
-
-    <item>
-      <title>$OPEN – Meme stock gap-up</title>
-      <link>https://www.tradingview.com/symbols/OPEN/</link>
-      <description><![CDATA[Price: ZZ.ZZ | Type: Reddit Mention]]></description>
-      <pubDate>Wed, 06 Aug 2025 14:02:00 +0000</pubDate>
-      <guid>open-3</guid>
-    </item>
-
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Daily Pump Feed</title>
+<link>https://daily-pump.vercel.app/</link>
+<description>Daily pump stock updates</description>
+<language>en-us</language>
+<lastBuildDate>Wed, 06 Aug 2025 14:10:00 +0000</lastBuildDate>
+<atom:link href="https://daily-pump.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>$SBET – Ethereum buzz runner</title>
+<link>https://www.tradingview.com/symbols/SBET/</link>
+<description>
+<![CDATA[ Price: XX.XX | Type: Reddit Mention ]]>
+</description>
+<pubDate>Wed, 06 Aug 2025 14:08:00 +0000</pubDate>
+<guid>sbett-1</guid>
+</item>
+<item>
+<title>$ABAT – Battery meme breakout</title>
+<link>https://www.tradingview.com/symbols/ABAT/</link>
+<description>
+<![CDATA[ Price: YY.YY | Type: Technical Breakout ]]>
+</description>
+<pubDate>Wed, 06 Aug 2025 14:05:00 +0000</pubDate>
+<guid>abat-2</guid>
+</item>
+<item>
+<title>$OPEN – Meme stock gap-up</title>
+<link>https://www.tradingview.com/symbols/OPEN/</link>
+<description>
+<![CDATA[ Price: ZZ.ZZ | Type: Reddit Mention ]]>
+</description>
+<pubDate>Wed, 06 Aug 2025 14:02:00 +0000</pubDate>
+<guid>open-3</guid>
+</item>
+</channel>
 </rss>
