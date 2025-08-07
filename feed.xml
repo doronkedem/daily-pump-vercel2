@@ -6,11 +6,10 @@
     <description>Early mentions of stocks matching pump criteria (Robinhood, volume surge, Reddit buzz)</description>
 
     <item>
-      <title>🟢 New Reddit Buzz Detected – 11:26 AM</title>
-      <link>https://www.reddit.com/r/pennystocks</link>
-      <pubDate>Thu, 08 Aug 2025 15:26:00 GMT</pubDate>
-      <description>Fresh Reddit activity matches early pump indicators. Worth a look.</description>
+      <title>🟢 ALERT: Reddit Buzz – 11:35 AM</title>
+      <link>https://www.reddit.com/r/pennystocks/comments/abc123/</link>
+      <pubDate>Thu, 08 Aug 2025 15:35:00 GMT</pubDate>
+      <description>Updated signal. Check Reddit now.</description>
     </item>
-
   </channel>
 </rss>
