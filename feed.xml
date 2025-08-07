@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>🚨 Reddit Buzz Alerts – Unfiltered</title>
+<channel>
+  <title>🚨 Early Pump Signals – Reddit Watch</title>
+  <link>https://www.reddit.com/r/pennystocks</link>
+  <description>Live Reddit buzz alerts for possible early pump opportunities</description>
+  <item>
+    <title>🟢 Reddit Buzz Alert – Check r/pennystocks</title>
     <link>https://www.reddit.com/r/pennystocks</link>
-    <description>Live alerts for new Reddit posts possibly indicating early pump activity.</description>
-
-    <item>
-      <title>🟢 New Reddit Buzz – Check Now</title>
-      <link>https://www.reddit.com/r/pennystocks</link>
-      <pubDate>Thu, 08 Aug 2025 16:10:00 GMT</pubDate>
-      <description>Fresh Reddit post detected. Visit r/pennystocks and check for potential early pump signals.</description>
-    </item>
-
-  </channel>
+    <pubDate><!--#echo var="DATE_LOCAL" --></pubDate>
+    <description>New Reddit post may indicate early pump. Check r/pennystocks now.</description>
+  </item>
+</channel>
 </rss>
