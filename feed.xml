@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+ <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
   <title>🚨 Early Pump Signals (Unfiltered Reddit Alerts)</title>
@@ -6,17 +6,10 @@
   <description>Early mentions of stocks matching pump criteria (Robinhood, volume surge, Reddit buzz)</description>
 
   <item>
-    <title>🟢 Early Reddit Buzz Detected</title>
+    <title>🟢 New Reddit Buzz Detected</title>
     <link>https://www.reddit.com/r/pennystocks</link>
-    <pubDate>Thu, 08 Aug 2025 10:41:00 GMT</pubDate>
-    <description>One or more tickers triggered early-stage pump indicators. Check Reddit or your screener now.</description>
-  </item>
-
-  <item>
-    <title>⚠️ Potential PUMP Alert – Unverified Ticker Activity</title>
-    <link>https://www.reddit.com/r/pennystocks</link>
-    <pubDate>Thu, 08 Aug 2025 09:27:00 GMT</pubDate>
-    <description>Detected spike in posts or volume matching early pump profile. Review your shortlist manually.</description>
+    <pubDate>Thu, 08 Aug 2025 14:33:00 GMT</pubDate>
+    <description>Fresh post activity suggests early pump signals. Check Reddit threads now.</description>
   </item>
 
 </channel>
