@@ -1,16 +1,16 @@
- <?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-  <title>🚨 Early Pump Signals (Unfiltered Reddit Alerts)</title>
-  <link>https://reddit.com/r/pennystocks</link>
-  <description>Early mentions of stocks matching pump criteria (Robinhood, volume surge, Reddit buzz)</description>
+  <channel>
+    <title>🚨 Early Pump Signals (Unfiltered Reddit Alerts)</title>
+    <link>https://reddit.com/r/pennystocks</link>
+    <description>Early mentions of stocks matching pump criteria (Robinhood, volume surge, Reddit buzz)</description>
 
-  <item>
-    <title>🟢 New Reddit Buzz Detected</title>
-    <link>https://www.reddit.com/r/pennystocks</link>
-    <pubDate>Thu, 08 Aug 2025 14:33:00 GMT</pubDate>
-    <description>Fresh post activity suggests early pump signals. Check Reddit threads now.</description>
-  </item>
+    <item>
+      <title>🟢 New Reddit Buzz Detected</title>
+      <link>https://www.reddit.com/r/pennystocks</link>
+      <pubDate>Thu, 08 Aug 2025 14:33:00 GMT</pubDate>
+      <description>Fresh post activity suggests early pump signals. Check Reddit threads now.</description>
+    </item>
 
-</channel>
+  </channel>
 </rss>
