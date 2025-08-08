@@ -5,13 +5,12 @@
     <link>https://cdn.jsdelivr.net/gh/doronkedem/daily-pump/feed.xml</link>
     <description>High-risk early-stage stock pump alerts</description>
 
-    <!-- 🆕 INSERT ITEMS HERE -->
-    <item><title>🟠 Watchlist: SINT – Microcap Volatility with $28 Target?</title>
+  <item>
+  <title>🟠 Watchlist: SINT – Microcap Volatility with $28 Target?</title>
   <description>SINTX Technologies (SINT) is drawing attention. Trading around $2.83 with low float, extreme volatility, and a speculative analyst target of $28. Earnings expected Aug 19. Use caution — extremely high-risk.</description>
   <pubDate>Fri, 08 Aug 2025 14:40:00 GMT</pubDate>
-  <guid>watch-sint-2025-08-08</guid>...</item>
-    <item>...</item>
-    <!-- 👆 SINT goes here -->
-
+  <guid>watch-sint-2025-08-08</guid>
+  </item>
+   
   </channel>
 </rss>
