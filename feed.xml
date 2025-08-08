@@ -1,6 +1,17 @@
-<item>
-  <title>🟢 AGFI, TOP, FAZE, VS, CJET – Pump Radar 08/08</title>
-  <description>5 new early-stage pump candidates: unusual volume, Reddit buzz, and technical signs. All tradable on Robinhood. Watch closely: AGRI, TOP, FAZE, VS, CJET.</description>
-  <pubDate>Fri, 08 Aug 2025 13:10:00 GMT</pubDate>
-  <guid>stocks-pump-2025-08-08</guid>
-</item>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>🚨 Early Pump Signals – Reddit Watch</title>
+    <link>https://cdn.jsdelivr.net/gh/doronkedem/daily-pump/feed.xml</link>
+    <description>High-risk early-stage stock pump alerts</description>
+
+    <!-- 🆕 INSERT ITEMS HERE -->
+    <item><title>🟠 Watchlist: SINT – Microcap Volatility with $28 Target?</title>
+  <description>SINTX Technologies (SINT) is drawing attention. Trading around $2.83 with low float, extreme volatility, and a speculative analyst target of $28. Earnings expected Aug 19. Use caution — extremely high-risk.</description>
+  <pubDate>Fri, 08 Aug 2025 14:40:00 GMT</pubDate>
+  <guid>watch-sint-2025-08-08</guid>...</item>
+    <item>...</item>
+    <!-- 👆 SINT goes here -->
+
+  </channel>
+</rss>
